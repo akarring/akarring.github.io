@@ -1,0 +1,5 @@
+theme: jekyll-theme-minima
+title: Ann Karring
+description: Portfolio
+github:
+  is_project_page: false
