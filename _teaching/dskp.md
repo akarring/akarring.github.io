@@ -3,8 +3,8 @@ title: "Design as a Critical Practice"
 dato: 2021 Fall
 excerpt: "Fall 2021"
 header:
-  image: /assets/images/prototypes/confession.png
-  teaser: assets/images/prototypes/confession.png
+  image: /assets/images/events/postoptimal.jpg
+  teaser: /assets/images/events/postoptimal.jpg
 author_profile: true
 ---
 

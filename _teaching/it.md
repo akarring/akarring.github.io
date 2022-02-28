@@ -3,8 +3,9 @@ title: "Interaction Technologies"
 dato: 2020 Fall
 excerpt: "Fall 2020"
 header:
-  image: /assets/images/prototypes/confession.png
-  teaser: assets/images/prototypes/confession.png
+  image: https://images.pexels.com/photos/6153354/pexels-photo-6153354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
+  caption: "Photo credit: [**Pexels: cottonbro**](https://images.pexels.com/photos/6153354/pexels-photo-6153354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)"
+  teaser: https://images.pexels.com/photos/6153354/pexels-photo-6153354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 author_profile: true
 ---
 

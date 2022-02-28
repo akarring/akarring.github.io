@@ -3,8 +3,9 @@ title: "Surveillance Culture"
 dato: 2021 Fall
 excerpt: "Fall 2021"
 header:
-  image: /assets/images/prototypes/confession.png
-  teaser: assets/images/prototypes/confession.png
+  image: https://images.unsplash.com/photo-1557597774-9d273605dfa9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1163&q=80
+  caption: "Photo credit: [**Unsplash: Lianhao Qu**](https://images.unsplash.com/photo-1557597774-9d273605dfa9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1163&q=80)"
+  teaser: https://images.unsplash.com/photo-1557597774-9d273605dfa9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1163&q=80
 author_profile: true
 ---
 
