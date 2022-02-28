@@ -1,31 +1,29 @@
 ---
-title: "Baz Boom Identity"
-date: 2022-02-13
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+title: "Children's Economy"
+dato: 2017 Spring
+excerpt: "Spring 2017"
 header:
-  image: /assets/images/Hanni1.jpg
-  teaser: assets/images/Hanni1.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+  image: /assets/images/workshops/tvilBy.png
+  teaser: assets/images/workshops/tvilBy.png
+author_profile: true
 gallery:
-  - url: /assets/images/Hanni1.jpg
-    image_path: assets/images/Hanni1.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/Hanni2.jpg
-    image_path: assets/images/Hanni2.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/HanniWide.jpg
-    image_path: assets/images/HanniWide.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/workshops/by1.png
+    image_path: assets/images/workshops/by1.png
+    alt: "Creating an avatar"
+  - url: /assets/images/workshops/by2.png
+    image_path: assets/images/workshops/by2.png
+    alt: "Playing a game"
+  - url: /assets/images/workshops/by3.png
+    image_path: assets/images/workshops/by3.png
+    alt: "Interacting with the prototype"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+## Spring 2017
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+*Made in collaboration with: Helena Naumov Rasmussen, Sabrina Kjærager Larsen and Julya Konelskaya Raimensborg.*
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+This was a workshop that was used for researching children's relationship with money. Two 11-year old children were invited to the workshop to walk through how they currently meet money in their everyday lives. This was done through an interactive prototype, that was designed to be based on video game theory, and other elements of the workshop were also based on the concept of play.
+
+{% include gallery %}
+
+[Read the plan that was followed for the workshop (Danish)](https://theinteractionwarriors.wordpress.com/2017/05/04/workshop/)

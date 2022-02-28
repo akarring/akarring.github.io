@@ -1,31 +1,28 @@
 ---
-title: "Baz Boom Identity"
-date: 2022-02-13
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+title: "Questgiver @Vesterbro Torv"
+dato: 2015 Fall
+excerpt: "Fall 2015"
 header:
-  image: /assets/images/Hanni1.jpg
-  teaser: assets/images/Hanni1.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+  image: /assets/images/workshops/QG3.jpg
+  teaser: assets/images/workshops/QG3.jpg
+author_profile: true
 gallery:
-  - url: /assets/images/Hanni1.jpg
-    image_path: assets/images/Hanni1.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/Hanni2.jpg
-    image_path: assets/images/Hanni2.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/HanniWide.jpg
-    image_path: assets/images/HanniWide.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/Hworkshops/QG1.jpg
+    image_path: assets/images/workshops/QG1.jpg
+    alt: "Interacting with prototype 1"
+  - url: /assets/images/workshops/QG2.jpg
+    image_path: assets/images/workshops/QG2.jpg
+    alt: "Interacting with prototype 2"
+  - url: /assets/images/workshops/QG3.jpg
+    image_path: assets/images/workshops/QG3.jpg
+    alt: "Debriefing with users"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+## Fall 2015
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+*Made in collaboration with: Simone Boye, Alexander Kracht and Leopold Corneliusen*
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+This workshop tested a mock-up with users. The design that was tested tried to make it more attractive to be at Vesterbro torv in Aarhus with the use of an interactive screen.
+In our design, the screen was connected to other screens in other cities. When people passed by, they would get notified about adventurous quests to do around town.
+
+{% include gallery caption="Some shots from the workshop with users." %}
