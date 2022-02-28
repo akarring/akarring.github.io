@@ -7,9 +7,6 @@ header:
   teaser: assets/images/prototypes/deathappposter.png
 author_profile: true
 gallery:
-  - url: /assets/images/prototypes/deathappposter.png
-    image_path: assets/images/prototypes/deathappposter.png
-    alt: "Poster for the Undertaken App"
   - url: /assets/images/prototypes/deathapp1.png
     image_path: assets/images/prototypes/deathapp1.png
     alt: "Step 1: Check breathing"
@@ -19,9 +16,6 @@ gallery:
   - url: /assets/images/prototypes/deathapp3.png
     image_path: assets/images/prototypes/deathapp3.png
     alt: "Step 3: Check brain activity"
-  - url: /assets/images/prototypes/deathapp4.png
-    image_path: assets/images/prototypes/deathapp4.png
-    alt: "Person has been declared dead"
 ---
 
 ## Spring 2019
