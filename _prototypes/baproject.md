@@ -4,8 +4,8 @@ dato: 2018 Spring
 excerpt: "Visualizing audio file formats"
 author_profile: true
 header:
-  image: /assets/images/prototypes/ba.png
-  teaser: /assets/images/prototypes/ba.png
+  image: /assets/images/prototypes/baproject.png
+  teaser: /assets/images/prototypes/baproject.png
 
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg

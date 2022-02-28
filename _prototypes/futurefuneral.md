@@ -4,8 +4,8 @@ dato: 2019 Spring
 excerpt: "Project done at a hackathon in the course Design as Critical Practice."
 author_profile: true
 header:
-  image: /assets/images/prototypes/futurefunerals.png
-  teaser: /assets/images/prototypes/futurefunerals.png
+  image: /assets/images/prototypes/futurefuneralrit.png
+  teaser: /assets/images/prototypes/futurefuneralrit.png
 ---
 
 ## Spring 2019
