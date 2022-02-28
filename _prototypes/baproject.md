@@ -1,17 +1,15 @@
 ---
-title: "Foo Bar Identity"
-date: 2022-02-02
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "BA project"
+dato: 2018 Spring
+excerpt: "Visualizing audio file formats"
+author_profile: true
 header:
-  image: /assets/images/Hanni2.jpg
-  teaser: /assets/images/Hanni2.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+  id: cJjl6yofZgY
+  provider: youtube
+  teaser:
+    id: cJjl6yofZgY
+    provider: youtube
+
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -24,8 +22,10 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+This was my bachelor project.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+I programmed a program that took a mp3 file as input and then transformed a small part of it into a 3D cylinder, that represents the actual bits the mp3 file is made from. This 3D model can then be printed and "played".
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+I did this to make the immateriality of digital audio files material and tangible again, since I wanted to explore the relation between the listener and the physical manifestation of the music, like a CD or Vinyl, which is no longer there when music formats become digital.
+
+<!-- {% include gallery caption="This is a sample gallery to go along with this case study." %} -->
