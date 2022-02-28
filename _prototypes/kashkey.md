@@ -6,6 +6,16 @@ author_profile: true
 header:
   image: /assets/images/prototypes/kashkey.png
   teaser: /assets/images/prototypes/kashkey.png
+  gallery:
+    - url: /assets/images/Hanni1.jpg
+      image_path: assets/images/Hanni1.jpg
+      alt: "placeholder image 1"
+    - url: /assets/images/Hanni2.jpg
+      image_path: assets/images/Hanni2.jpg
+      alt: "placeholder image 2"
+    - url: /assets/images/HanniWide.jpg
+      image_path: assets/images/HanniWide.jpg
+      alt: "placeholder image 3"
 ---
 
 ## Spring 2017
@@ -24,6 +34,8 @@ https://www.youtube.com/watch?v=G8S1UznuDDE
 This design is made together with the KashKey keychain, that is also displayed on this site. The plant can scan a child's KashKey keychain, and then the plant will display a representation of the child's current economic status. If the child is doing well economically, the plant will rise high, and opposite, if their economy is doing badly.
 
 https://www.youtube.com/watch?v=c5B7hmVtGfU
+
+{% include gallery caption="This is a sample gallery to go along with this case study." %}
 
 
 [Link to blog](https://theinteractionwarriors.wordpress.com/)
