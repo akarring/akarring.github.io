@@ -7,15 +7,15 @@ header:
   image: /assets/images/workshops/virtualvideoprototype.png
   teaser: assets/images/workshops/virtualvideoprototype.png
 gallery:
-  - url: /assets/images/Hanni1.jpg
-    image_path: assets/images/Hanni1.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/Hanni2.jpg
-    image_path: assets/images/Hanni2.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/HanniWide.jpg
-    image_path: assets/images/HanniWide.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/workshops/VVP1.png
+    image_path: assets/images/workshops/VVP1.png
+    alt: "Zodiac"
+  - url: /assets/images/workshops/VVP2.png
+    image_path: assets/images/workshops/VVP2.png
+    alt: "Planets"
+  - url: /assets/images/workshops/VVP3.png
+    image_path: assets/images/workshops/VVP3.png
+    alt: "Aliens"
 ---
 ## Fall 2018
 
