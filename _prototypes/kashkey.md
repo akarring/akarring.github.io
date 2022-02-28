@@ -6,16 +6,16 @@ author_profile: true
 header:
   image: /assets/images/prototypes/kashkey.png
   teaser: /assets/images/prototypes/kashkey.png
-  gallery:
-    - url: /assets/images/prototypes/kashkey.png
-      image_path: assets/images/prototypes/kashkey.png
-      alt: "Keychain and Plant"
-    - url: /assets/images/prototypes/kashkeychain.png
-      image_path: assets/images/prototypes/kashkeychain.png
-      alt: "Keychain"
-    - url: /assets/images/prototypes/kashkeyplant.png
-      image_path: assets/images/prototypes/kashkeyplant.png
-      alt: "Plant"
+gallery:
+  - url: /assets/images/prototypes/kashkey.png
+    image_path: assets/images/prototypes/kashkey.png
+    alt: "Keychain and Plant"
+  - url: /assets/images/prototypes/kashkeychain.png
+    image_path: assets/images/prototypes/kashkeychain.png
+    alt: "Keychain"
+  - url: /assets/images/prototypes/kashkeyplant.png
+    image_path: assets/images/prototypes/kashkeyplant.png
+    alt: "Plant"
 ---
 
 ## Spring 2017
@@ -24,7 +24,7 @@ header:
 
 {% include gallery caption="KashKey - Making money sense-able" %}
 
-### KashKey keychain
+### KashKey Key Chain
 
 My group and I wanted to create a design that gave children an easier relation with their "digital money", than what our field studies showed they had. This design is a keychain that keeps track of the child's account and makes it easier for the child to calculate future investments. The video displayed a functional prototype, that is an oversized version of the design envisioned.
 
