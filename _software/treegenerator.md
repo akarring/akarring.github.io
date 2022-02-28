@@ -3,8 +3,8 @@ title: "Tree Generator"
 dato: 2016 Spring
 excerpt: "Spring 2016"
 header:
-  image: /assets/images/prototypes/soundaarhus.png
-  teaser: assets/images/prototypes/soundaarhus.png
+  image: /assets/images/prototypes/treegen.png
+  teaser: assets/images/prototypes/treegen.png
 author_profile: true
 ---
 ## Spring 2016
