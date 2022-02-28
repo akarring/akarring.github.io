@@ -7,14 +7,14 @@ header:
   image: /assets/images/workshops/virtualvideoprototype.png
   teaser: assets/images/workshops/virtualvideoprototype.png
 gallery:
-  - url: /assets/images/workshops/VVP1.png
-    image_path: assets/images/workshops/VVP1.png
+  - url: /assets/images/workshops/VVP1.PNG
+    image_path: assets/images/workshops/VVP1.PNG
     alt: "Zodiac"
-  - url: /assets/images/workshops/VVP2.png
-    image_path: assets/images/workshops/VVP2.png
+  - url: /assets/images/workshops/VVP2.PNG
+    image_path: assets/images/workshops/VVP2.PNG
     alt: "Planets"
-  - url: /assets/images/workshops/VVP3.png
-    image_path: assets/images/workshops/VVP3.png
+  - url: /assets/images/workshops/VVP3.PNG
+    image_path: assets/images/workshops/VVP3.PNG
     alt: "Aliens"
 ---
 ## Fall 2018
