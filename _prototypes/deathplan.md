@@ -3,8 +3,8 @@ title: "Death Plan"
 dato: 2019 Spring
 excerpt: "Spring 2019"
 header:
-  image: /assets/images/prototypes/deathplan4.png
-  teaser: assets/images/prototypes/deathplan4.png
+  image: /assets/images/prototypes/deathplanturned.png
+  teaser: assets/images/prototypes/deathplanturned.png
 author_profile: true
 gallery:
   - url: /assets/images/prototypes/deathplan1.png
@@ -35,10 +35,10 @@ The interaction with the death plan followed three steps:
 
 The questionnaire contained the questions that can be seen in the image below:
 
-{% include figure image_path="/assets/images/prototypes/Deathplan.png" alt="Questionnaire" %}
+{% include figure image_path="/assets/images/prototypes/Deathplan.png" alt="Questionnaire" width= 500 %}
 
 And an example of a death plan that the users could bring with them, could look like the image below:
 
-{% include figure image_path="/assets/images/prototypes/deathplan5.png" alt="Questionnaire" %}
+{% include figure image_path="/assets/images/prototypes/deathplan5.png" alt="Death Plan" width: 300 %}
 
 This project was exhibited at dokk1 during Internet Week Denmark 2019 as part of a collection together with the [Undertaken App](#LINK).
