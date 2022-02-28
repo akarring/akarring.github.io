@@ -3,8 +3,8 @@ title: "Physical Computing"
 dato: 2018 Fall
 excerpt: "Fall 2018"
 header:
-  image: /assets/images/prototypes/arduino.png
-  teaser: assets/images/prototypes/arduino.png
+  image: /assets/images/workshops/arduino.png
+  teaser: assets/images/workshops/arduino.png
 author_profile: true
 ---
 

@@ -1,17 +1,11 @@
 ---
-title: "Baz Boom Identity"
-date: 2022-02-13
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+title: "Busgaden in Space"
+dato: 2018 Fall
+excerpt: "Fall 2018"
+author_profile: true
 header:
-  image: /assets/images/Hanni1.jpg
-  teaser: assets/images/Hanni1.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+  image: /assets/images/workshops/virtualvideoprototype.png
+  teaser: assets/images/workshops/virtualvideoprototype.png
 gallery:
   - url: /assets/images/Hanni1.jpg
     image_path: assets/images/Hanni1.jpg
@@ -23,9 +17,16 @@ gallery:
     image_path: assets/images/HanniWide.jpg
     alt: "placeholder image 3"
 ---
+## Fall 2018
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+*Made in collaboration with:  Ida Reinholdt Jensen, Anders Jensen and Sebastian Knudsen*
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+My group and I used the blue studio, provided by CAVI, a research center at Aarhus University to make this project. We wanted to explore the effects of inviting users into the blue studio, so they could see themselves in real-time in a new virtual alternative to what they are used to. The design was specifically meant as an event at Busgaden in Aarhus. So we wanted to explore the use of the blue studio at CAVI for the design activity scenarios. So instead of recording a virtual video prototype in the blue studio and then show it to users, we wanted to bring users into the blue studio. We tested 3 different ways of interacting with our design on 2x2 users in the blue studio.
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+{% include gallery caption="Pictures from our workshop with users." %}
+
+The following video illustrates the interactions the users could perform in the virtual video prototype.
+
+{% include video id="S184Bk2AXbo" provider="youtube" %}
+
+[Link to blog](http://ixd404.tilda.ws/)

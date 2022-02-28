@@ -3,8 +3,8 @@ title: "Programming"
 dato: 2020 Spring
 excerpt: "Spring 2020"
 header:
-  image: /assets/images/prototypes/processing.png
-  teaser: assets/images/prototypes/processing.png
+  image: /assets/images/workshops/processing.png
+  teaser: assets/images/workshops/processing.png
 author_profile: true
 ---
 
