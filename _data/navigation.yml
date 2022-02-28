@@ -1,0 +1,44 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "CV"
+    url: /CV/
+  - title: "About Me"
+    url: /about/
+
+mainplus:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+    children:
+        - title: "Events"
+          url: /projects/events/
+        - title: "Prototypes"
+          url: /projects/prototypes/
+        - title: "Software"
+          url: /projects/software/
+        - title: "Teaching"
+          url: /projects/teaching/
+        - title: "Workshops"
+          url: /projects/workshops/
+  - title: "CV"
+    url: /CV/
+  - title: "About Me"
+    url: /about/
+
+projectnav:
+  - title: "All"
+    url: /projects/
+  - title: "Events"
+    url: /projects/events/
+  - title: "Prototypes"
+    url: /projects/prototypes/
+  - title: "Software"
+    url: /projects/software/
+  - title: "Teaching"
+    url: /projects/teaching/
+  - title: "Workshops"
+    url: /projects/workshops/
