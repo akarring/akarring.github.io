@@ -13,8 +13,8 @@ gallery:
   - url: /assets/images/workshops/VVP2.PNG
     image_path: assets/images/workshops/VVP2.PNG
     alt: "Planets"
-  - url: /assets/images/workshops/VVP3.PNG
-    image_path: assets/images/workshops/VVP3.PNG
+  - url: /assets/images/workshops/VVP33.PNG
+    image_path: assets/images/workshops/VVP33.PNG
     alt: "Aliens"
 ---
 ## Fall 2018
