@@ -1,7 +1,7 @@
 ---
 title: "Retail in the Future"
 dato: 2018 Autumn
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+excerpt: "A virtual video prototype displaying a possible future for retail."
 author_profile: true
 header:
   image: /assets/images/prototypes/retail.png

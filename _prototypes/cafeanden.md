@@ -1,7 +1,7 @@
 ---
 title: "Caféånden"
 dato: 2019 Spring
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+excerpt: "An urban display that reflects the activities in the cafes of the city."
 author_profile: true
 header:
   image: /assets/images/prototypes/cafe.png
