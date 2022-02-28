@@ -1,7 +1,7 @@
 ---
 title: "A Future Funeral Ritual"
 dato: 2019 Spring
-excerpt: "Project done at a hackathon in the course Design as Critical Practice."
+excerpt: "Spring 2019"
 author_profile: true
 header:
   image: /assets/images/prototypes/futurefuneralrit.png

@@ -1,12 +1,14 @@
 ---
 title: "Glitch Memory"
 dato: 2018 Summer
-excerpt: "Raising Ethical Questions."
+excerpt: "Summer 2018"
 author_profile: true
 header:
   image: /assets/images/prototypes/glitch.png
   teaser: /assets/images/prototypes/glitch.png
 ---
+
+# - Raising Ethical Questions
 
 ## Summer 2018
 

@@ -1,7 +1,7 @@
 ---
-title: "BA project"
+title: "BA Project - Visualizing audio file formats"
 dato: 2018 Spring
-excerpt: "Visualizing audio file formats"
+excerpt: "Spring 2018"
 author_profile: true
 header:
   image: /assets/images/prototypes/baproject.png
@@ -23,7 +23,7 @@ gallery:
 
 This was my bachelor project.
 
-I programmed a program that took a mp3 file as input and then transformed a small part of it into a 3D cylinder, that represents the actual bits the mp3 file is made from. This 3D model can then be printed and "played".
+I coded a program that took a mp3 file as input and then transformed a small part of it into a 3D cylinder, that represents the actual bits the mp3 file is made from. This 3D model can then be printed and "played".
 
 I did this to make the immateriality of digital audio files material and tangible again, since I wanted to explore the relation between the listener and the physical manifestation of the music, like a CD or Vinyl, which is no longer there when music formats become digital.
 

@@ -1,7 +1,8 @@
 ---
 title: "KashKey"
 dato: 2017 Spring
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+excerpt: "Spring 2017"
+author_profile: true
 header:
   image: /assets/images/prototypes/kashkey.png
   teaser: /assets/images/prototypes/kashkey.png
