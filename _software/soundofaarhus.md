@@ -1,31 +1,15 @@
 ---
-title: "Baz Boom Identity"
-date: 2022-02-13
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+title: "Sound of Aarhus"
+dato: 2020 Fall
+excerpt: "Spring 2016"
 header:
-  image: /assets/images/Hanni1.jpg
-  teaser: assets/images/Hanni1.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
-gallery:
-  - url: /assets/images/Hanni1.jpg
-    image_path: assets/images/Hanni1.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/Hanni2.jpg
-    image_path: assets/images/Hanni2.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/HanniWide.jpg
-    image_path: assets/images/HanniWide.jpg
-    alt: "placeholder image 3"
+  image: /assets/images/prototypes/soundaarhus.png
+  teaser: assets/images/prototypes/soundaarhus.png
+author_profile: true
 ---
+## Fall 2020
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+A map of Aarhus made in collaboration with the students of Digital Design 3rd semester Fall 2020. The students got the task to walk a "Dérive"  - a city walk guided by their senses, in this case, their hearing. Whenever they met an unexpected sound or a very characteristic sound of that place in the city, they were asked to recorded and note down where the audio was recorded. I put this together as our collective map of Aarhus that we used in the class.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
-
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+The program was written in p5.js.
+<body><iframe src="https://raggedyann.gitlab.io/it-e20-aarhus-sound-map/soundMap/" frameborder="0" style="overflow: hidden; height: 300px; width: 100%; position: absolute;" title="Sound of Aarhus"></iframe><br></body>
