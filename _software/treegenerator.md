@@ -14,4 +14,4 @@ code is repeated for the trunk as for the branches by calling the same function 
 
 The program was originally written in Processing.
 
-<iframe src="https://raw.githack.com/RaggedyAnn/OldMinis/master/5th%20weekly%20mini%20exercise/treeGenerator/index.html" height="500" width="500" title="Tree Generator"></iframe>
+<iframe src="https://raw.githack.com/RaggedyAnn/OldMinis/master/5th%20weekly%20mini%20exercise/treeGenerator/index.html" frameborder="0" height="500" width="500" title="Tree Generator"></iframe>
