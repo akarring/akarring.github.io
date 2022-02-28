@@ -16,6 +16,6 @@ Language of instruction: Danish
 
 Teaching students how design artefacts can be used to express ideologies, opinions, and paradigms.
 
-The course ended with an exhibition of the students' projects at dokk1. [Read more about the event here.](#LINK)
+The course ended with an exhibition of the students' projects at dokk1. [Read more about the event here.](/events/dskp2021/)
 
 [Read more about the course here](https://kursuskatalog.au.dk/en/course/109210/Core-course-Design-as-a-critical-practice){: .btn .btn--primary .btn--large}

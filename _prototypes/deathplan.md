@@ -42,4 +42,4 @@ And an example of a death plan that the users could bring with them, could look 
 
 {% include figure image_path="/assets/images/prototypes/deathplan5.png" alt="Death Plan" %}
 
-This project was exhibited at dokk1 during Internet Week Denmark 2019 as part of a collection together with the [Undertaken App](#LINK).
+This project was exhibited at dokk1 during Internet Week Denmark 2019 as part of a collection together with the [Undertaken App](/prototypes/deathapp/).

@@ -40,4 +40,4 @@ All these three steps are either confirmed or declined through sensors in the us
 
 If no life is registered during the three steps the person has been declared deceased and an undertaker has been sent the location to pick up the body.
 
-This project was exhibited at dokk1 during Internet Week Denmark 2019 as part of a collection together with the [death plan](#LINK).
+This project was exhibited at dokk1 during Internet Week Denmark 2019 as part of a collection together with the [death plan](/prototypes/deathplan/).
