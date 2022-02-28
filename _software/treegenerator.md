@@ -7,6 +7,7 @@ header:
   teaser: assets/images/prototypes/treegen.png
 author_profile: true
 ---
+
 ## Spring 2016
 
 As a reflection on algorithms, this program is a simple construction, of simple lines, for which the only rules are that they either split in two or continue. The same

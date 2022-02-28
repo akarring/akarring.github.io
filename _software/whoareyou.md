@@ -1,31 +1,17 @@
 ---
-title: "Baz Boom Identity"
-date: 2022-02-13
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+title: "Who are you?"
+dato: 2019 Spring
+excerpt: "Spring 2019"
 header:
-  image: /assets/images/Hanni1.jpg
-  teaser: assets/images/Hanni1.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
-gallery:
-  - url: /assets/images/Hanni1.jpg
-    image_path: assets/images/Hanni1.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/Hanni2.jpg
-    image_path: assets/images/Hanni2.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/HanniWide.jpg
-    image_path: assets/images/HanniWide.jpg
-    alt: "placeholder image 3"
+  image: /assets/images/prototypes/whoru.png
+  teaser: assets/images/prototypes/whoru.png
+author_profile: true
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+## Spring 2019
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+This is a program that I presented at Processing Community Day 2019.
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+The program displays a completely black background, onto which circles in different colours will appear, together with text connected to the circles, with information about: age, gender and emotion. These circles are representations of the people that are captured through a connected webcam.. These circles will move and change colour and shape depending of the people in front of the webcam. with the use of Facial-recognition software, determines and displays the program information about the people in front of the webcam. Even though no webcam footage is visible on screen, the program will occationally and without warning take pictures and save the pictures locally on the computer.
+
+The program is meant to reflect the pros and cons of surveillance in combination with facial recognition and also a reflection on these assumptions and abstractions, which the AI in the facial recognition software needs to make to be able to use the captured data.
