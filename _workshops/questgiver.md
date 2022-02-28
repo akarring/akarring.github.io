@@ -7,11 +7,11 @@ header:
   teaser: assets/images/workshops/QG3.jpg
 author_profile: true
 gallery:
-  - url: /assets/images/Hworkshops/QG1.jpg
-    image_path: assets/images/workshops/QG1.jpg
+  - url: /assets/images/Hworkshops/QG1.JPG
+    image_path: assets/images/workshops/QG1.JPG
     alt: "Interacting with prototype 1"
-  - url: /assets/images/workshops/QG2.jpg
-    image_path: assets/images/workshops/QG2.jpg
+  - url: /assets/images/workshops/QG2.JPG
+    image_path: assets/images/workshops/QG2.JPG
     alt: "Interacting with prototype 2"
   - url: /assets/images/workshops/QG3.jpg
     image_path: assets/images/workshops/QG3.jpg

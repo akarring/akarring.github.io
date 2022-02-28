@@ -7,8 +7,8 @@ header:
   teaser: assets/images/workshops/tvilBy.png
 author_profile: true
 gallery:
-  - url: /assets/images/workshops/by1.png
-    image_path: assets/images/workshops/by1.png
+  - url: /assets/images/workshops/by1.jpg
+    image_path: assets/images/workshops/by1.jpg
     alt: "Creating an avatar"
   - url: /assets/images/workshops/by2.png
     image_path: assets/images/workshops/by2.png
