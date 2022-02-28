@@ -3,8 +3,8 @@ title: "Internet Week Denmark 2019"
 date: 2019-05-09
 excerpt: "Exhibiting at Dokk1 in Aarhus during Internet Week Denmark 2019"
 header:
-  image: /assets/images/IWDKme.jpeg
-  teaser: /assets/images/IWDKme.jpeg
+  image: /assets/images/events/IWDKme.jpg
+  teaser: /assets/images/events/IWDKme.jpg
 author_profile: true
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
