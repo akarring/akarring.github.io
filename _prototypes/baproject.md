@@ -22,6 +22,8 @@ gallery:
     alt: "placeholder image 3"
 ---
 
+## Spring 2018
+
 This was my bachelor project.
 
 I programmed a program that took a mp3 file as input and then transformed a small part of it into a 3D cylinder, that represents the actual bits the mp3 file is made from. This 3D model can then be printed and "played".

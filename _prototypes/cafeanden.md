@@ -1,6 +1,6 @@
 ---
-title: "Foo Bar Identity"
-date: 2022-02-02
+title: "Caféånden"
+dato: 2019 Spring
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
   image: /assets/images/Hanni2.jpg
@@ -24,8 +24,12 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+## Spring 2019
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+Made in collaboration with: Anna Brynskov.
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+The café spirit (caféånden), that you can see move on different facades in the city. It evolves and moves according to how much the citizens of the city lift their cups and glasses on the cafés of the city, all while talking, listening, thinking, working and fooling around. The pixel animal mirrors the spirit of the cafés all around the city live. In that way you can experience the pulse of the city and the life on the cafés in the urban setting of the city, and thereby making the activity ubiquitous and unconsciously experienced in all of the city.
+
+Watch the video below to get the experience of caféånden.
+
+{% include video id="338704340" provider="vimeo" %}
