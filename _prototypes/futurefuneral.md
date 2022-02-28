@@ -1,31 +1,29 @@
 ---
-title: "Foo Bar Identity"
-date: 2022-02-02
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "A Future Funeral Ritual"
+dato: 2019 Spring
+excerpt: "Project done at a hackathon in the course Design as Critical Practice."
+author_profile: true
 header:
-  image: /assets/images/Hanni2.jpg
-  teaser: /assets/images/Hanni2.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  image: /assets/images/prototypes/futurefunerals.png
+  teaser: /assets/images/prototypes/futurefunerals.png
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+## Spring 2019
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+*Made in collaboration with Søren Sjøstand Madsen*
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+This project was done at a hackathon when I attended the course "Design as Critical Practice".
+
+Inspired by "death cities", like catacombs and necropolis this design is imagined in a future, where graveyards as we know them as a place for mourning no longer exists. In this future there is a need for a new mourning ritual that memorizes deceased loved ones. This ritual follows the following steps:
+
+1) Place your hand into the sacrificial box, that will open a wound in your hand and register the blood sacrifice.
+
+2) Visual and auditory memories of the deceased will start playing.
+
+3) Clean your wounded hand in the bowl of water, dry your hand and use the gauze to bind the hand.
+
+The actual prototype were powered by an arduino uno with a FSR that triggers two vibrator motors when pressed. This were placed inside the box together with a mixture of syrup and red food die to simulate blood.
+
+What the video below to see it in action.
+
+{% include video id="bwHr5HU8i_Y" provider="youtube" %}

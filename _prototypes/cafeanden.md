@@ -2,16 +2,10 @@
 title: "Caféånden"
 dato: 2019 Spring
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+author_profile: true
 header:
   image: /assets/images/prototypes/cafe.png
   teaser: /assets/images/prototypes/cafe.png
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
 ---
 
 ## Spring 2019

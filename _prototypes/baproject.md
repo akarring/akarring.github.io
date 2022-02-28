@@ -29,7 +29,7 @@ I did this to make the immateriality of digital audio files material and tangibl
 
 Watch the video below to see the product in action.
 
-% include video id="cJjl6yofZgY" provider="youtube" %}
+{% include video id="cJjl6yofZgY" provider="youtube" %}
 
 
 
