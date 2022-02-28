@@ -16,6 +16,7 @@ gallery:
   - url: /assets/images/prototypes/deathapp3.png
     image_path: assets/images/prototypes/deathapp3.png
     alt: "Step 3: Check brain activity"
+classes: wide
 ---
 
 ## Spring 2019

@@ -6,6 +6,7 @@ header:
   image: /assets/images/prototypes/confession.png
   teaser: assets/images/prototypes/confession.png
 author_profile: true
+classes: wide
 ---
 ## Spring 2016
 

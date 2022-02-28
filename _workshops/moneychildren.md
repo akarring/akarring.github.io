@@ -16,6 +16,7 @@ gallery:
   - url: /assets/images/workshops/by3.png
     image_path: assets/images/workshops/by3.png
     alt: "Interacting with the prototype"
+classes: wide
 ---
 
 ## Spring 2017

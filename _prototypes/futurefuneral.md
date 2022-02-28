@@ -6,6 +6,7 @@ author_profile: true
 header:
   image: /assets/images/prototypes/futurefuneralrit.png
   teaser: /assets/images/prototypes/futurefuneralrit.png
+classes: wide
 ---
 
 ## Spring 2019

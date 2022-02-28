@@ -16,6 +16,7 @@ gallery:
   - url: /assets/images/prototypes/BA3.jpg
     image_path: assets/images/prototypes/BA3.jpg
     alt: "BA project roll"
+classes: wide
 ---
 
 ## Spring 2018

@@ -6,6 +6,7 @@ author_profile: true
 header:
   image: /assets/images/prototypes/retail.png
   teaser: assets/images/prototypes/retail.png
+classes: wide
 ---
 
 ## Fall 2018

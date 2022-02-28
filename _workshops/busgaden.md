@@ -16,6 +16,7 @@ gallery:
   - url: /assets/images/workshops/VVP33.PNG
     image_path: assets/images/workshops/VVP33.PNG
     alt: "Aliens"
+classes: wide
 ---
 ## Fall 2018
 

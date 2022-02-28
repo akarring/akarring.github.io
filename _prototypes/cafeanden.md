@@ -6,6 +6,7 @@ author_profile: true
 header:
   image: /assets/images/prototypes/cafe.png
   teaser: /assets/images/prototypes/cafe.png
+classes: wide
 ---
 
 ## Spring 2019

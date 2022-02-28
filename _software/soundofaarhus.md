@@ -6,6 +6,7 @@ header:
   image: /assets/images/prototypes/sound.png
   teaser: assets/images/prototypes/sound.png
 author_profile: true
+classes: wide
 ---
 ## Fall 2020
 

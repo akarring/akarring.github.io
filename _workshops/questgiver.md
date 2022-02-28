@@ -16,6 +16,7 @@ gallery:
   - url: /assets/images/workshops/QG3.jpg
     image_path: assets/images/workshops/QG3.jpg
     alt: "Debriefing with users"
+classes: wide
 ---
 
 ## Fall 2015

@@ -16,6 +16,7 @@ gallery:
   - url: /assets/images/prototypes/deathplan4.png
     image_path: assets/images/prototypes/deathplan4.png
     alt: "Death plan is being printed"
+classes: wide
 ---
 
 ## Spring 2019

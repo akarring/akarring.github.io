@@ -16,6 +16,7 @@ gallery:
   - url: /assets/images/prototypes/kashkeyplant.png
     image_path: assets/images/prototypes/kashkeyplant.png
     alt: "Plant"
+classes: wide
 ---
 
 ## Spring 2017
