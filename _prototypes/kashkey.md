@@ -1,31 +1,28 @@
 ---
-title: "Foo Bar Identity"
-date: 2022-02-02
+title: "KashKey"
+dato: 2017 Spring
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
-  image: /assets/images/Hanni2.jpg
-  teaser: /assets/images/Hanni2.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  image: /assets/images/prototypes/kashkey.png
+  teaser: /assets/images/prototypes/kashkey.png
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+## Spring 2017
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+**Made in collaboration with: Helena Naumov Rasmussen, Sabrina Kjærager Larsen and Julya Konelskaya Raimensborg.**
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+### KashKey keychain
+
+My group and I wanted to create a design that gave children an easier relation with their "digital money", than what our field studies showed they had. This design is a keychain that keeps track of the child's account and makes it easier for the child to calculate future investments. The video displayed a functional prototype, that is an oversized version of the design envisioned.
+
+https://www.youtube.com/watch?v=G8S1UznuDDE
+
+
+### KashKey Plant
+
+This design is made together with the KashKey keychain, that is also displayed on this site. The plant can scan a child's KashKey keychain, and then the plant will display a representation of the child's current economic status. If the child is doing well economically, the plant will rise high, and opposite, if their economy is doing badly.
+
+https://www.youtube.com/watch?v=c5B7hmVtGfU
+
+
+[Link to blog](https://theinteractionwarriors.wordpress.com/)
