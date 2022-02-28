@@ -1,39 +1,17 @@
 ---
-title: "Baz Boom Identity"
-date: 2022-02-13
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+title: "Tree Generator"
+dato: 2016 Spring
+excerpt: "Spring 2016"
 header:
-  image: /assets/images/Hanni1.jpg
-  teaser: assets/images/Hanni1.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
-gallery:
-  - url: /assets/images/Hanni1.jpg
-    image_path: assets/images/Hanni1.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/Hanni2.jpg
-    image_path: assets/images/Hanni2.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/HanniWide.jpg
-    image_path: assets/images/HanniWide.jpg
-    alt: "placeholder image 3"
+  image: /assets/images/prototypes/soundaarhus.png
+  teaser: assets/images/prototypes/soundaarhus.png
+author_profile: true
 ---
+## Spring 2016
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+As a reflection on algorithms, this program is a simple construction, of simple lines, for which the only rules are that they either split in two or continue. The same
+code is repeated for the trunk as for the branches by calling the same function inside the function(recursion), but with a slight variation with the help of the random function. Try pressing the tree followed by a key on your keyboard to generate a new tree.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+The program was originally written in Processing.
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
-
-<!-- <iframe src="https://raggedyann.gitlab.io/the-perfect-dataset/OrangeInc/" height="200" width="300" title="Orange Inc Website"></iframe>
-
-<iframe src="https://raggedyann.gitlab.io/the-perfect-dataset/thesis/" height="200" width="300" title="The Perfect Dataset™"></iframe> -->
-
-<body><iframe src="https://raggedyann.gitlab.io/the-perfect-dataset/OrangeInc/" frameborder="0" style="overflow: hidden; width: 100%; position: absolute;" title="Orange Inc Website"></iframe><br></body>
-
-<body><iframe src="https://raggedyann.gitlab.io/the-perfect-dataset/thesis/" frameborder="0" style="overflow: hidden; width: 100%; position: absolute;" title="The Perfect Dataset™"></iframe><br></body>
+<iframe src="https://raw.githack.com/RaggedyAnn/OldMinis/master/5th%20weekly%20mini%20exercise/treeGenerator/index.html" height="500" width="500" title="Tree Generator"></iframe>

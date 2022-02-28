@@ -1,10 +1,10 @@
 ---
 title: "Sound of Aarhus"
 dato: 2020 Fall
-excerpt: "Spring 2016"
+excerpt: "Fall 2020"
 header:
-  image: /assets/images/prototypes/soundaarhus.png
-  teaser: assets/images/prototypes/soundaarhus.png
+  image: /assets/images/prototypes/sound.png
+  teaser: assets/images/prototypes/sound.png
 author_profile: true
 ---
 ## Fall 2020
