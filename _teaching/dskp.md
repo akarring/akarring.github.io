@@ -1,31 +1,21 @@
 ---
-title: "Foo Bar Identity"
-date: 2022-02-02
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "Design as a Critical Practice"
+dato: 2021 Fall
+excerpt: "Fall 2021"
 header:
-  image: /assets/images/Hanni2.jpg
-  teaser: /assets/images/Hanni2.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  image: /assets/images/prototypes/confession.png
+  teaser: assets/images/prototypes/confession.png
+author_profile: true
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+## Fall 2021
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+**Students: An elective course for students of 1st semester MA in Digital Design and Information Studies**
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+Language of instruction: Danish
+
+Teaching students how design artefacts can be used to express ideologies, opinions, and paradigms.
+
+The course ended with an exhibition of the students' projects at dokk1. [Read more about the event here.](#LINK)
+
+[Read more about the course here](https://kursuskatalog.au.dk/en/course/109210/Core-course-Design-as-a-critical-practice){: .btn .btn--primary .btn--large}

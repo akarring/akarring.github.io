@@ -6,7 +6,6 @@ author_profile: true
 header:
   image: /assets/images/prototypes/baproject.png
   teaser: /assets/images/prototypes/baproject.png
-
 gallery:
   - url: /assets/images/prototypes/BA1.jpg
     image_path: assets/images/prototypes/BA1.jpg
