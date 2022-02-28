@@ -16,3 +16,5 @@ The program is a twitter bot, that searches for secrets, confessions, and the li
 The piece focuses on today’s attitude towards “sharing”. It is incredibly easy to share information on various social media websites today. This can be seen as an issue when people start thinking less about what they share and with whom they share it with. All this data is stored, often without their knowledge, and can be retrieved by everybody with access to it including sometimes the platform they shared it on.
 
 {% include video id="168807540" provider="vimeo" %}
+
+[See the confession bot twitter profile here](https://twitter.com/ConfessionB0t)
