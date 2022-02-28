@@ -29,3 +29,11 @@ Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Goog
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
 hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+
+<!-- <iframe src="https://raggedyann.gitlab.io/the-perfect-dataset/OrangeInc/" height="200" width="300" title="Orange Inc Website"></iframe>
+
+<iframe src="https://raggedyann.gitlab.io/the-perfect-dataset/thesis/" height="200" width="300" title="The Perfect Dataset™"></iframe> -->
+
+<body><iframe src="https://raggedyann.gitlab.io/the-perfect-dataset/OrangeInc/" frameborder="0" style="overflow: hidden; width: 100%; position: absolute;" title="Orange Inc Website"></iframe><br></body>
+
+<body><iframe src="https://raggedyann.gitlab.io/the-perfect-dataset/thesis/" frameborder="0" style="overflow: hidden; width: 100%; position: absolute;" title="The Perfect Dataset™"></iframe><br></body>
