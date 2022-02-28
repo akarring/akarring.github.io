@@ -3,8 +3,9 @@ title: "CNC Machines"
 dato: 2019 Spring
 excerpt: "Spring 2019"
 header:
-  image: /assets/images/prototypes/arduino.png
-  teaser: assets/images/prototypes/arduino.png
+  image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdzevsq2emy08i.cloudfront.net%2Fpaperclip%2Ftechnology_image_uploaded_images%2F25367%2Foriginal%2F1000_angle_0080_half.jpg%3F1468333370&f=1&nofb=1
+  caption: "Photo credit: [**inventables**](https://dzevsq2emy08i.cloudfront.net/paperclip/technology_image_uploaded_images/25367/original/1000_angle_0080_half.jpg?1468333370)"
+  teaser: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdzevsq2emy08i.cloudfront.net%2Fpaperclip%2Ftechnology_image_uploaded_images%2F25367%2Foriginal%2F1000_angle_0080_half.jpg%3F1468333370&f=1&nofb=1
 author_profile: true
 ---
 
