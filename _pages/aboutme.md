@@ -18,7 +18,7 @@ I also have experience with programming in **HTML, Scala** and **C#**.
 
 I am experienced in 3D modeling in: **Fusion 360** and **Maya**, both provided by Autodesk.
 
-I have experience with using the following graphic, film, and wireframing tools: **Adobe Illustrator, Adobe XD, Adobe InDesign, Adobe Premiere Pro, Unity, Figma, Vue.js** and **Axure**.
+I have experience with using the following graphic, film, and wireframing tools: **Adobe Illustrator, Adobe XD, Adobe InDesign, Adobe Premiere Pro, Unity, UXpin, Figma, Vue.js** and **Axure**.
 
 I am proficient in speaking and reading **Danish, English, and German**.
 
