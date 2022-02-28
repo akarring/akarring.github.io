@@ -20,6 +20,8 @@ gallery:
 
 ## Spring 2019
 
+*Made in collaboration with Søren Sjøstrand Madsen*
+
 This project is the result of attending the course Design as a Critical Practice during my master's.
 
 The Undertaken App was created to critically reflect on how we want to take care of the peoples closest to us when they die, as well as how we want to be taken care of when we die ourselves.

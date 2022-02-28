@@ -10,7 +10,7 @@ header:
 
 ## Spring 2019
 
-*Made in collaboration with Søren Sjøstand Madsen*
+*Made in collaboration with Søren Sjøstrand Madsen*
 
 This project was done at a hackathon when I attended the course "Design as Critical Practice".
 
