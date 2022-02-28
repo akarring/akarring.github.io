@@ -9,7 +9,7 @@ header:
 
 ## Spring 2017
 
-**Made in collaboration with: Helena Naumov Rasmussen, Sabrina Kjærager Larsen and Julya Konelskaya Raimensborg.**
+*Made in collaboration with: Helena Naumov Rasmussen, Sabrina Kjærager Larsen and Julya Konelskaya Raimensborg.*
 
 ### KashKey keychain
 
