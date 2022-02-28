@@ -1,31 +1,19 @@
 ---
-title: "Foo Bar Identity"
-date: 2022-02-02
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "Programming"
+dato: 2020 Spring
+excerpt: "Spring 2020"
 header:
-  image: /assets/images/Hanni2.jpg
-  teaser: /assets/images/Hanni2.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  image: /assets/images/prototypes/arduino.png
+  teaser: assets/images/prototypes/arduino.png
+author_profile: true
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+## Spring 2020
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+### Teaching creative code through the Processing and P5.js coding environments.
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+Throughout most of my time in university I worked as a teacher's assistant in the course Aesthetic programming. In this course, my task was to help the students in the most pedagogical way, in their process of learning the basics of programming and aesthetic reflection on code and software. Every week we went through the new syntax and discussed the theme of the week, followed by a session, where the students coded and could get help when needed.
+
+In April 2017 I started working in the Digital Design Lab (DD Lab), where I also make workshops that introduce students to programming. For instance, have I made and documented a 3x3 hour introduction course to programming in Processing for beginners.
+
+[Go to the workshop plan](https://github.com/DDlabAU/introToProgramming){: .btn .btn--primary}
